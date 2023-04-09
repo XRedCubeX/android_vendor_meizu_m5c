@@ -73,6 +73,8 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m5c/proprietary/lib64/libperfservicenative.so:system/lib64/libperfservicenative.so \
     vendor/meizu/m5c/proprietary/lib/libmtcloader.so:system/lib/libmtcloader.so \
     vendor/meizu/m5c/proprietary/lib/libfgauge.so:system/lib/libfgauge.so \
+    vendor/meizu/m5c/proprietary/lib/libfs_mgr.so:system/lib/libfs_mgr.so \
+    vendor/meizu/m5c/proprietary/lib64/libfs_mgr.so:system/lib64/libfs_mgr.so \
     vendor/meizu/m5c/proprietary/lib/libmtklimiter.so:system/lib/libmtklimiter.so \
     vendor/meizu/m5c/proprietary/lib64/libmtklimiter.so:system/lib64/libmtklimiter.so \
     vendor/meizu/m5c/proprietary/bin/nvram_daemon:system/bin/nvram_daemon \
